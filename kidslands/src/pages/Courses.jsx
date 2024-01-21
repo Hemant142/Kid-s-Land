@@ -178,7 +178,7 @@ const Courses = () => {
           >
             Our Courses
           </Heading>
-          <Flex direction={{ base: "column", md: "row" }} align="center">
+          <Flex direction={{ base: "column", md: "row" }} align="center" gap={"10px"}>
             <select
               style={{
                 color: "#304b62",
