@@ -5,7 +5,7 @@ An Individual project executed in 4 days.
 
 # Vercel link
 
-https://kids-land-two.vercel.app/
+https://kidslands.vercel.app/
 
 # Tech Stack 💻
 
